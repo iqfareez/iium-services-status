@@ -17,8 +17,8 @@ status-website:
   baseUrl: /iium-services-status
   logoUrl: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/International_Islamic_University_Malaysia_logo.svg/1200px-International_Islamic_University_Malaysia_logo.svg.png
   name: IIUM Services Status
-  introTitle: "**Orait** ke tuu :eyes:"
-  introMessage: This website is not affiliated with IIUM Official. Do reach them for help & support. [ITD email](mailto:servicedesk@iium.edu.my)
+  introTitle: "**Orait** ke tuu 👀"
+  introMessage: This website is **not affiliated** with IIUM Official. Do reach them for help & support. [ITD email](mailto:servicedesk@iium.edu.my)
   navbar:
     - title: Status
       href: /
