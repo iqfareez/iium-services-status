@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/imaluum.iium.edu.my",
     "slug": "i-ma-luum-student-portal",
     "status": "up",
-    "uptime": "99.04%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.04%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 1909,
     "timeDay": 1912,
     "timeWeek": 1909,
@@ -42,9 +42,9 @@
     "url": "https://prereg1.iium.edu.my",
     "icon": "https://favicons.githubusercontent.com/prereg1.iium.edu.my",
     "slug": "prereg-online-course-registration-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1663,
     "timeMonth": 1663,
     "timeYear": 1663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-27": 0
+    }
   }
 ]
