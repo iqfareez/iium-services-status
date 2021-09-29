@@ -11,18 +11,18 @@ sites:
     url: https://prereg1.iium.edu.my
 
 status-website:
-  theme: ocean
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.iium.online
   # baseUrl: /iium-services-status
   logoUrl: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/International_Islamic_University_Malaysia_logo.svg/1200px-International_Islamic_University_Malaysia_logo.svg.png
   name: IIUM Services Status
-  introTitle: "IIUM **Orait** ke tuu 👀"
+  introTitle: "IIUM **orait** ke tuu 👀"
   introMessage: This website is **not affiliated** with IIUM Official. Do reach [them](mailto:servicedesk@iium.edu.my) for help & support. Get notified via [Telegram](https://t.me/joinchat/Fmv3u0DenXo1NzJl) now!
-  navbar:
-    - title: Status
-      href: /
+  # navbar:
+  #   - title: Status
+  #     href: /
 
 workflowSchedule:
   uptime: "*/8 * * * *" # every 8 minutes
