@@ -20,6 +20,7 @@ status-website:
   name: IIUM Services Status
   introTitle: "IIUM **orait** ke tuu 👀"
   introMessage: This website is **not affiliated** with IIUM Official. Do reach [them](mailto:servicedesk@iium.edu.my) for help & support. Get notified via [Telegram](https://t.me/joinchat/Fmv3u0DenXo1NzJl) now!
+  customHeadHtml: '<meta property="og:image" content="https://github.com/iqfareez/iium-services-status/blob/master/images/meta-image.png?raw=true">'
   # navbar:
   #   - title: Status
   #     href: /
