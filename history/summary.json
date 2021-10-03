@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/imaluum.iium.edu.my",
     "slug": "i-ma-luum-student-portal",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
-    "time": 1854,
-    "timeDay": 1713,
-    "timeWeek": 1839,
-    "timeMonth": 1854,
-    "timeYear": 1854,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 1846,
+    "timeDay": 1715,
+    "timeWeek": 1831,
+    "timeMonth": 1846,
+    "timeYear": 1846,
     "dailyMinutesDown": {
       "2021-09-25": 26
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1756,
-    "timeDay": 1652,
-    "timeWeek": 1761,
-    "timeMonth": 1756,
-    "timeYear": 1756,
+    "time": 1757,
+    "timeDay": 1718,
+    "timeWeek": 1763,
+    "timeMonth": 1757,
+    "timeYear": 1757,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1611,
-    "timeDay": 1515,
-    "timeWeek": 1605,
-    "timeMonth": 1611,
-    "timeYear": 1611,
+    "time": 1604,
+    "timeDay": 1492,
+    "timeWeek": 1596,
+    "timeMonth": 1604,
+    "timeYear": 1604,
     "dailyMinutesDown": {}
   }
 ]
