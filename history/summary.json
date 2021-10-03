@@ -42,7 +42,7 @@
     "url": "https://prereg1.iium.edu.my",
     "icon": "https://favicons.githubusercontent.com/prereg1.iium.edu.my",
     "slug": "prereg-online-course-registration-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -53,6 +53,8 @@
     "timeWeek": 1596,
     "timeMonth": 1604,
     "timeYear": 1604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-03": 0
+    }
   }
 ]
