@@ -4,7 +4,7 @@
     "url": "https://imaluum.iium.edu.my",
     "icon": "https://favicons.githubusercontent.com/imaluum.iium.edu.my",
     "slug": "i-ma-luum-student-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
     "uptimeDay": "98.02%",
     "uptimeWeek": "99.44%",
@@ -16,6 +16,7 @@
     "timeMonth": 1628,
     "timeYear": 1709,
     "dailyMinutesDown": {
+      "2022-03-11": 0,
       "2022-03-10": 29,
       "2022-03-08": 28,
       "2022-03-02": 42,
