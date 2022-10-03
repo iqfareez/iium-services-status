@@ -48,19 +48,20 @@
     "url": "https://italeemc.iium.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/italeemc.iium.edu.my.ico",
     "slug": "i-ta-le-em-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "89.49%",
-    "uptimeWeek": "79.87%",
-    "uptimeMonth": "95.37%",
-    "uptimeYear": "99.44%",
-    "time": 2223,
-    "timeDay": 8798,
-    "timeWeek": 4637,
-    "timeMonth": 3035,
-    "timeYear": 2241,
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "80.01%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "99.45%",
+    "time": 2255,
+    "timeDay": 9819,
+    "timeWeek": 5344,
+    "timeMonth": 3366,
+    "timeYear": 2275,
     "dailyMinutesDown": {
-      "2022-10-02": 151,
+      "2022-10-03": 0,
+      "2022-10-02": 136,
       "2022-10-01": 1287,
       "2022-09-30": 591,
       "2022-07-01": 23,
@@ -104,8 +105,7 @@
       "2022-01-04": 35,
       "2021-11-26": 215,
       "2021-11-22": 38,
-      "2021-10-04": 130,
-      "2021-10-03": 70
+      "2021-10-04": 130
     }
   }
 ]
