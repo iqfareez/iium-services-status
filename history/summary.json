@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.82%",
     "time": 1588,
-    "timeDay": 1478,
-    "timeWeek": 1388,
-    "timeMonth": 1518,
-    "timeYear": 1576,
+    "timeDay": 1188,
+    "timeWeek": 1337,
+    "timeMonth": 1502,
+    "timeYear": 1575,
     "dailyMinutesDown": {
       "2022-09-05": 33,
       "2022-08-15": 33,
@@ -39,8 +39,7 @@
       "2022-02-13": 26,
       "2021-11-26": 47,
       "2021-11-19": 29,
-      "2021-10-28": 28,
-      "2021-10-04": 130
+      "2021-10-28": 28
     }
   },
   {
@@ -49,16 +48,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/italeemc.iium.edu.my.ico",
     "slug": "i-ta-le-em-cloud",
     "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "73.48%",
+    "uptime": "99.42%",
+    "uptimeDay": "92.57%",
     "uptimeWeek": "77.58%",
     "uptimeMonth": "94.84%",
     "uptimeYear": "99.40%",
-    "time": 2286,
-    "timeDay": 8889,
+    "time": 2285,
+    "timeDay": 5520,
     "timeWeek": 5561,
-    "timeMonth": 3606,
-    "timeYear": 2307,
+    "timeMonth": 3603,
+    "timeYear": 2309,
     "dailyMinutesDown": {
       "2022-10-03": 245,
       "2022-10-02": 136,
@@ -87,16 +86,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/prereg1.iium.edu.my.ico",
     "slug": "prereg-online-course-registration-portal",
     "status": "up",
-    "uptime": "99.30%",
+    "uptime": "99.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.29%",
-    "time": 1322,
-    "timeDay": 928,
-    "timeWeek": 1085,
-    "timeMonth": 1190,
-    "timeYear": 1308,
+    "uptimeYear": "99.30%",
+    "time": 1321,
+    "timeDay": 929,
+    "timeWeek": 1042,
+    "timeMonth": 1182,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2022-05-13": 54,
       "2022-04-03": 1058,
@@ -104,8 +103,7 @@
       "2022-04-01": 702,
       "2022-01-04": 35,
       "2021-11-26": 215,
-      "2021-11-22": 38,
-      "2021-10-04": 130
+      "2021-11-22": 38
     }
   }
 ]
