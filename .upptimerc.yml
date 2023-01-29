@@ -11,10 +11,10 @@ sites:
     url: https://prereg1.iium.edu.my
 
 status-website:
-  theme: light
+  theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.iium.online
+  cname: iiumstatus.iqfareez.com
   # baseUrl: /iium-services-status
   logoUrl: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/International_Islamic_University_Malaysia_logo.svg/1200px-International_Islamic_University_Malaysia_logo.svg.png
   name: IIUM Services Status
