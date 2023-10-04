@@ -1,7 +1,7 @@
 url: https://italeemc.iium.edu.my
-status: up
-code: 200
-responseTime: 1535
-lastUpdated: 2023-10-03T23:15:26.277Z
+status: down
+code: 502
+responseTime: 1016
+lastUpdated: 2023-10-04T13:57:18.575Z
 startTime: 2021-09-25T03:13:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
