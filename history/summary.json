@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1506,
-    "timeDay": 1368,
-    "timeWeek": 1512,
-    "timeMonth": 1512,
+    "timeDay": 1755,
+    "timeWeek": 1570,
+    "timeMonth": 1511,
     "timeYear": 1519,
     "dailyMinutesDown": {
       "2023-07-24": 26,
@@ -35,8 +35,7 @@
       "2023-01-13": 26,
       "2023-01-05": 27,
       "2022-12-24": 23,
-      "2022-12-08": 28,
-      "2022-10-22": 275
+      "2022-12-08": 28
     }
   },
   {
@@ -44,27 +43,27 @@
     "url": "https://italeemc.iium.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/italeemc.iium.edu.my.ico",
     "slug": "i-ta-le-em-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "93.26%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.38%",
-    "time": 2017,
-    "timeDay": 3850,
-    "timeWeek": 2448,
-    "timeMonth": 2061,
-    "timeYear": 1877,
+    "time": 2014,
+    "timeDay": 3842,
+    "timeWeek": 2408,
+    "timeMonth": 2030,
+    "timeYear": 1873,
     "dailyMinutesDown": {
-      "2023-10-21": 29,
+      "2023-10-22": 0,
+      "2023-10-21": 19,
       "2023-10-05": 24,
       "2023-10-04": 21,
       "2023-10-01": 833,
       "2023-09-30": 1440,
       "2023-09-29": 607,
       "2023-07-29": 56,
-      "2023-05-08": 29,
-      "2022-10-22": 238
+      "2023-05-08": 29
     }
   },
   {
@@ -79,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 1201,
-    "timeDay": 1107,
-    "timeWeek": 1177,
-    "timeMonth": 1223,
+    "timeDay": 1261,
+    "timeWeek": 1200,
+    "timeMonth": 1214,
     "timeYear": 1206,
     "dailyMinutesDown": {
       "2023-07-21": 50,
@@ -91,8 +90,7 @@
       "2023-04-07": 41,
       "2023-03-23": 131,
       "2023-02-18": 58,
-      "2023-02-17": 199,
-      "2022-10-22": 238
+      "2023-02-17": 199
     }
   }
 ]
