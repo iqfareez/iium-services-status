@@ -6,15 +6,15 @@
     "slug": "i-ma-luum-student-portal",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.84%",
     "time": 1571,
-    "timeDay": 1499,
-    "timeWeek": 1443,
-    "timeMonth": 2226,
-    "timeYear": 1599,
+    "timeDay": 1573,
+    "timeWeek": 1485,
+    "timeMonth": 2133,
+    "timeYear": 1587,
     "dailyMinutesDown": {
       "2024-02-16": 19,
       "2024-02-09": 102,
@@ -31,8 +31,7 @@
       "2023-03-24": 25,
       "2023-03-08": 29,
       "2023-03-04": 25,
-      "2023-03-02": 59,
-      "2023-02-18": 58
+      "2023-03-02": 59
     }
   },
   {
@@ -46,11 +45,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
-    "time": 1834,
-    "timeDay": 1133,
-    "timeWeek": 846,
-    "timeMonth": 1527,
-    "timeYear": 1640,
+    "time": 1832,
+    "timeDay": 728,
+    "timeWeek": 856,
+    "timeMonth": 1388,
+    "timeYear": 1638,
     "dailyMinutesDown": {
       "2023-12-18": 55,
       "2023-12-17": 7,
@@ -83,12 +82,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.84%",
-    "time": 1240,
-    "timeDay": 1252,
-    "timeWeek": 1197,
-    "timeMonth": 1572,
-    "timeYear": 1247,
+    "uptimeYear": "99.88%",
+    "time": 1247,
+    "timeDay": 4460,
+    "timeWeek": 1652,
+    "timeMonth": 1667,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2024-02-09": 21,
       "2024-01-06": 167,
@@ -97,8 +96,7 @@
       "2023-06-01": 13,
       "2023-05-20": 121,
       "2023-04-07": 41,
-      "2023-03-23": 131,
-      "2023-02-18": 58
+      "2023-03-23": 131
     }
   }
 ]
