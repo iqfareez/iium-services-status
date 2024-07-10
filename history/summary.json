@@ -4,7 +4,7 @@
     "url": "https://imaluum.iium.edu.my",
     "icon": "https://icons.duckduckgo.com/ip3/imaluum.iium.edu.my.ico",
     "slug": "i-ma-luum-student-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1480,
     "timeYear": 1741,
     "dailyMinutesDown": {
+      "2024-07-10": 0,
       "2024-06-07": 57,
       "2024-05-31": 20,
       "2024-05-11": 225,
