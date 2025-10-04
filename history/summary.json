@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
     "time": 1746,
-    "timeDay": 5535,
-    "timeWeek": 2847,
-    "timeMonth": 2230,
+    "timeDay": 3731,
+    "timeWeek": 2881,
+    "timeMonth": 2226,
     "timeYear": 1789,
     "dailyMinutesDown": {
       "2025-08-22": 16,
@@ -35,8 +35,7 @@
       "2024-11-17": 1440,
       "2024-11-16": 558,
       "2024-10-11": 22,
-      "2024-10-05": 66,
-      "2024-10-04": 318
+      "2024-10-05": 66
     }
   },
   {
@@ -46,17 +45,16 @@
     "slug": "i-ta-le-em-cloud",
     "status": "up",
     "uptime": "98.17%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "94.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "94.28%",
     "time": 1607,
-    "timeDay": 3495,
-    "timeWeek": 2497,
-    "timeMonth": 2171,
+    "timeDay": 2406,
+    "timeWeek": 2436,
+    "timeMonth": 2037,
     "timeYear": 1752,
     "dailyMinutesDown": {
-      "2025-10-03": 10,
       "2025-09-30": 40,
       "2025-08-12": 32,
       "2025-07-31": 31,
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 1395,
-    "timeDay": 4978,
-    "timeWeek": 2403,
-    "timeMonth": 1726,
+    "timeDay": 1294,
+    "timeWeek": 2385,
+    "timeMonth": 1606,
     "timeYear": 1456,
     "dailyMinutesDown": {
       "2025-08-22": 16,
@@ -123,8 +121,7 @@
       "2025-02-21": 42,
       "2025-02-14": 55,
       "2024-10-11": 22,
-      "2024-10-05": 63,
-      "2024-10-04": 23
+      "2024-10-05": 63
     }
   }
 ]
