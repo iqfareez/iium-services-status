@@ -11,10 +11,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.59%",
     "time": 1800,
-    "timeDay": 1314,
-    "timeWeek": 1425,
-    "timeMonth": 1719,
-    "timeYear": 1883,
+    "timeDay": 1344,
+    "timeWeek": 1422,
+    "timeMonth": 1716,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2026-01-27": 18,
       "2026-01-26": 15,
@@ -33,8 +33,7 @@
       "2025-03-04": 155,
       "2025-03-03": 1324,
       "2025-02-27": 25,
-      "2025-02-21": 43,
-      "2025-02-14": 56
+      "2025-02-21": 43
     }
   },
   {
@@ -43,16 +42,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/italeemc.iium.edu.my.ico",
     "slug": "i-ta-le-em-cloud",
     "status": "up",
-    "uptime": "98.27%",
+    "uptime": "98.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.62%",
-    "time": 1797,
-    "timeDay": 1238,
-    "timeWeek": 1410,
-    "timeMonth": 1669,
-    "timeYear": 1900,
+    "time": 1780,
+    "timeDay": 1098,
+    "timeWeek": 1371,
+    "timeMonth": 1657,
+    "timeYear": 1898,
     "dailyMinutesDown": {
       "2026-01-02": 26,
       "2025-11-27": 39,
@@ -93,10 +92,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.51%",
     "time": 1521,
-    "timeDay": 1073,
-    "timeWeek": 1240,
-    "timeMonth": 1713,
-    "timeYear": 1587,
+    "timeDay": 946,
+    "timeWeek": 1220,
+    "timeMonth": 1705,
+    "timeYear": 1586,
     "dailyMinutesDown": {
       "2026-01-17": 24,
       "2026-01-02": 26,
@@ -107,8 +106,7 @@
       "2025-03-19": 168,
       "2025-03-18": 1440,
       "2025-03-17": 543,
-      "2025-02-21": 42,
-      "2025-02-14": 55
+      "2025-02-21": 42
     }
   }
 ]
